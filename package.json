@@ -2,7 +2,6 @@
   "main": "./dgram.js",
   "name": "jspm-nodelibs-dgram",
   "version": "0.2.0",
-  "registry": "github",
   "map": {
     "./dgram.js": {
       "node": "@node/dgram"
